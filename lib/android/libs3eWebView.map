@@ -1,0 +1,754 @@
+Archive member included because of file (symbol)
+
+D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                              release\s3eWebView_platform.os (s3eEdkThreadRunOnOS)
+
+Discarded input sections
+
+ .group         0x00000000       0x10 release\s3eWebView_platform.os
+ .group         0x00000000       0x10 release\s3eWebView_platform.os
+ .group         0x00000000       0x10 release\s3eWebView_platform.os
+ .text          0x00000000        0x0 release\s3eWebView_platform.os
+ .data          0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z28s3eWebViewTerminate_platformv
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._ZL17s3eWebViewLoadingP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._ZL14s3eWebViewExecP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._ZL16s3eWebViewFailedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._ZL16s3eWebViewLoadedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z23s3eWebViewInit_platformv
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z36s3eWebViewGetHandleProperty_platformP10s3eWebView24s3eWebViewHandleProperty
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z25s3eWebViewResize_platformP10s3eWebViewiiii
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z33s3eWebViewSendJavaScript_platformP10s3eWebViewPKc
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z30s3eWebViewCreateModal_platformPKc
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z29s3eWebViewClearCache_platformP10s3eWebView
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z23s3eWebViewShow_platformP10s3eWebViewiiii15s3eWebViewFlags
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z23s3eWebViewHide_platformP10s3eWebView
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z26s3eWebViewDestroy_platformP10s3eWebView
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z25s3eWebViewCreate_platformh
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .ARM.extab.text._Z27s3eWebViewNavigate_platformP10s3eWebViewPKc
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .note.GNU-stack
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .text          0x00000000        0x0 release\s3eWebView.os
+ .data          0x00000000        0x0 release\s3eWebView.os
+ .bss           0x00000000        0x0 release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewResize
+                0x00000000        0x0 release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewShow
+                0x00000000        0x0 release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewUnRegister
+                0x00000000        0x0 release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewRegister
+                0x00000000        0x0 release\s3eWebView.os
+ .note.GNU-stack
+                0x00000000        0x0 release\s3eWebView.os
+ .text          0x00000000        0x0 release\s3eWebView_register.os
+ .data          0x00000000        0x0 release\s3eWebView_register.os
+ .bss           0x00000000        0x0 release\s3eWebView_register.os
+ .ARM.extab.text.s3eWebViewGetErrorString
+                0x00000000        0x0 release\s3eWebView_register.os
+ .text._Z21s3eWebViewRegisterExtv
+                0x00000000      0x130 release\s3eWebView_register.os
+ .ARM.extab.text._Z21s3eWebViewRegisterExtv
+                0x00000000        0x0 release\s3eWebView_register.os
+ .ARM.exidx.text._Z21s3eWebViewRegisterExtv
+                0x00000000        0x8 release\s3eWebView_register.os
+ .ARM.extab.text._ZL21s3eWebViewResize_wrapP10s3eWebViewiiii
+                0x00000000        0x0 release\s3eWebView_register.os
+ .ARM.extab.text._ZL19s3eWebViewShow_wrapP10s3eWebViewiiii15s3eWebViewFlags
+                0x00000000        0x0 release\s3eWebView_register.os
+ .ARM.extab.text.RegisterExt
+                0x00000000        0x0 release\s3eWebView_register.os
+ .note.GNU-stack
+                0x00000000        0x0 release\s3eWebView_register.os
+ .text          0x00000000        0x0 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .data          0x00000000        0x0 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .bss           0x00000000        0x0 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkThreadRunOnOSAsync
+                0x00000000       0x30 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0xc D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkThreadRunOnOSAsync
+                0x00000000        0x8 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .text.s3eEdkErrorSetString
+                0x00000000       0x30 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.extab.text.s3eEdkErrorSetString
+                0x00000000        0xc D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .ARM.exidx.text.s3eEdkErrorSetString
+                0x00000000        0x8 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+ .note.GNU-stack
+                0x00000000        0x0 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD release\s3eWebView_platform.os
+LOAD release\s3eWebView.os
+LOAD release\s3eWebView_register.os
+LOAD D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a
+LOAD D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android/libplaceholderplaceholderplaceholderplaceholderplaceholder.so
+LOAD D:\perforce\sdk\teams\orange\feature3\platform_libs\android\arch-arm\usr\lib/libc.so
+LOAD D:\perforce\sdk\teams\orange\feature3\platform_libs\android\arch-arm\usr\lib/libm.so
+LOAD D:\perforce\sdk\teams\orange\feature3\platform_libs\android\arch-arm\usr\lib/liblog.so
+LOAD D:\perforce\sdk\teams\orange\feature3\platform_libs\android\gnu-libstdc++\libs\armeabi\libstdc++.a
+LOAD c:/marmalade/archives/arm-2010q1-202-arm-none-linux-gnueabi-i686-mingw32-tar-bz2/bin/../lib/gcc/arm-none-linux-gnueabi/4.4.1\libgcc.a
+                0x000000d4                . = (0x0 + SIZEOF_HEADERS)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash           0x000000d4       0xc0
+ *(.hash)
+ .hash          0x000000d4       0xc0 release\s3eWebView_platform.os
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym         0x00000194      0x1d0
+ *(.dynsym)
+ .dynsym        0x00000194      0x1d0 release\s3eWebView_platform.os
+
+.dynstr         0x00000364      0x1d1
+ *(.dynstr)
+ .dynstr        0x00000364      0x1d1 release\s3eWebView_platform.os
+
+.gnu.version    0x00000536        0x0 load address 0x00000535
+ *(.gnu.version)
+ .gnu.version   0x00000000        0x0 release\s3eWebView_platform.os
+
+.gnu.version_d  0x00000538        0x0 load address 0x00000535
+ *(.gnu.version_d)
+ .gnu.version_d
+                0x00000000        0x0 release\s3eWebView_platform.os
+
+.gnu.version_r  0x00000538        0x0 load address 0x00000535
+ *(.gnu.version_r)
+ .gnu.version_r
+                0x00000000        0x0 release\s3eWebView_platform.os
+
+.rel.dyn        0x00000538      0x258
+ *(.rel.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ .rel.text._ZL17s3eWebViewLoadingP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000538        0x8 release\s3eWebView_platform.os
+ .rel.text._Z23s3eWebViewInit_platformv
+                0x00000540       0xd0 release\s3eWebView_platform.os
+ .rel.text._Z36s3eWebViewGetHandleProperty_platformP10s3eWebView24s3eWebViewHandleProperty
+                0x00000610        0x8 release\s3eWebView_platform.os
+ .rel.text._Z25s3eWebViewResize_platformP10s3eWebViewiiii
+                0x00000618        0x8 release\s3eWebView_platform.os
+ .rel.text._Z33s3eWebViewSendJavaScript_platformP10s3eWebViewPKc
+                0x00000620        0x8 release\s3eWebView_platform.os
+ .rel.text._Z30s3eWebViewCreateModal_platformPKc
+                0x00000628        0x8 release\s3eWebView_platform.os
+ .rel.text._Z29s3eWebViewClearCache_platformP10s3eWebView
+                0x00000630        0x8 release\s3eWebView_platform.os
+ .rel.text._Z23s3eWebViewShow_platformP10s3eWebViewiiii15s3eWebViewFlags
+                0x00000638        0x8 release\s3eWebView_platform.os
+ .rel.text._Z23s3eWebViewHide_platformP10s3eWebView
+                0x00000640        0x8 release\s3eWebView_platform.os
+ .rel.text._Z26s3eWebViewDestroy_platformP10s3eWebView
+                0x00000648        0x8 release\s3eWebView_platform.os
+ .rel.text._Z25s3eWebViewCreate_platformh
+                0x00000650        0x8 release\s3eWebView_platform.os
+ .rel.text._Z27s3eWebViewNavigate_platformP10s3eWebViewPKc
+                0x00000658        0x8 release\s3eWebView_platform.os
+ .rel.text._Z21s3eWebViewRegisterExtv
+                0x00000000        0x0 release\s3eWebView_platform.os
+ .rel.text._ZL32s3eWebViewGetHandleProperty_wrapP10s3eWebView24s3eWebViewHandleProperty
+                0x00000660        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL21s3eWebViewResize_wrapP10s3eWebViewiiii
+                0x00000668        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL29s3eWebViewSendJavaScript_wrapP10s3eWebViewPKc
+                0x00000670        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL25s3eWebViewClearCache_wrapP10s3eWebView
+                0x00000678        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL19s3eWebViewShow_wrapP10s3eWebViewiiii15s3eWebViewFlags
+                0x00000680        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL19s3eWebViewHide_wrapP10s3eWebView
+                0x00000688        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL22s3eWebViewDestroy_wrapP10s3eWebView
+                0x00000690        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL23s3eWebViewNavigate_wrapP10s3eWebViewPKc
+                0x00000698        0x8 release\s3eWebView_platform.os
+ .rel.text._ZL21s3eWebViewCreate_wraph
+                0x000006a0        0x8 release\s3eWebView_platform.os
+ .rel.text.RegisterExt
+                0x000006a8       0x88 release\s3eWebView_platform.os
+ *(.rel.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ .rel.rodata    0x00000730       0x60 release\s3eWebView_platform.os
+ *(.rel.data.rel.ro* .rel.gnu.linkonce.d.rel.ro.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rel.dtors)
+ *(.rel.got)
+ .rel.got       0x00000000        0x0 release\s3eWebView_platform.os
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rel.ifunc)
+
+.rela.dyn
+ *(.rela.init)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rela.fini)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rela.ctors)
+ *(.rela.dtors)
+ *(.rela.got)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rela.ifunc)
+
+.rel.plt        0x00000790       0x58
+ *(.rel.plt)
+ .rel.plt       0x00000790       0x58 release\s3eWebView_platform.os
+ *(.rel.iplt)
+
+.rela.plt
+ *(.rela.plt)
+ *(.rela.iplt)
+
+.init
+ *(.init)
+
+.plt            0x000007e8       0x98
+ *(.plt)
+ .plt           0x000007e8       0x98 release\s3eWebView_platform.os
+ *(.iplt)
+
+.text           0x00000880     0x1128
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00000880       0x1c release\s3eWebView_platform.os
+                0x00000880                _JNIEnv::GetMethodID(_jclass*, char const*, char const*)
+ .text._Z28s3eWebViewTerminate_platformv
+                0x0000089c        0x4 release\s3eWebView_platform.os
+                0x0000089c                s3eWebViewTerminate_platform()
+ .text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x000008a0       0x38 release\s3eWebView_platform.os
+                0x000008a0                _JNIEnv::CallIntMethod(_jobject*, _jmethodID*, ...)
+ .text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x000008d8       0x38 release\s3eWebView_platform.os
+                0x000008d8                _JNIEnv::NewObject(_jclass*, _jmethodID*, ...)
+ .text._ZL17s3eWebViewLoadingP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000910       0xd0 release\s3eWebView_platform.os
+ .text._ZL14s3eWebViewExecP7_JNIEnvP8_jobjectiP8_jstring
+                0x000009e0       0x88 release\s3eWebView_platform.os
+ .text._ZL16s3eWebViewFailedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000a68       0x88 release\s3eWebView_platform.os
+ .text._ZL16s3eWebViewLoadedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00000af0       0x8c release\s3eWebView_platform.os
+ .text._Z23s3eWebViewInit_platformv
+                0x00000b7c      0x380 release\s3eWebView_platform.os
+                0x00000b7c                s3eWebViewInit_platform()
+ .text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00000efc       0xa0 release\s3eWebView_platform.os
+ .text._Z36s3eWebViewGetHandleProperty_platformP10s3eWebView24s3eWebViewHandleProperty
+                0x00000f9c       0x64 release\s3eWebView_platform.os
+                0x00000f9c                s3eWebViewGetHandleProperty_platform(s3eWebView*, s3eWebViewHandleProperty)
+ .text._Z25s3eWebViewResize_platformP10s3eWebViewiiii
+                0x00001000       0x7c release\s3eWebView_platform.os
+                0x00001000                s3eWebViewResize_platform(s3eWebView*, int, int, int, int)
+ .text._Z33s3eWebViewSendJavaScript_platformP10s3eWebViewPKc
+                0x0000107c       0x80 release\s3eWebView_platform.os
+                0x0000107c                s3eWebViewSendJavaScript_platform(s3eWebView*, char const*)
+ .text._Z30s3eWebViewCreateModal_platformPKc
+                0x000010fc       0x78 release\s3eWebView_platform.os
+                0x000010fc                s3eWebViewCreateModal_platform(char const*)
+ .text._Z29s3eWebViewClearCache_platformP10s3eWebView
+                0x00001174       0x5c release\s3eWebView_platform.os
+                0x00001174                s3eWebViewClearCache_platform(s3eWebView*)
+ .text._Z23s3eWebViewShow_platformP10s3eWebViewiiii15s3eWebViewFlags
+                0x000011d0       0x7c release\s3eWebView_platform.os
+                0x000011d0                s3eWebViewShow_platform(s3eWebView*, int, int, int, int, s3eWebViewFlags)
+ .text._Z23s3eWebViewHide_platformP10s3eWebView
+                0x0000124c       0x5c release\s3eWebView_platform.os
+                0x0000124c                s3eWebViewHide_platform(s3eWebView*)
+ .text._Z26s3eWebViewDestroy_platformP10s3eWebView
+                0x000012a8       0x5c release\s3eWebView_platform.os
+                0x000012a8                s3eWebViewDestroy_platform(s3eWebView*)
+ .text._Z25s3eWebViewCreate_platformh
+                0x00001304       0x5c release\s3eWebView_platform.os
+                0x00001304                s3eWebViewCreate_platform(unsigned char)
+ .text._Z27s3eWebViewNavigate_platformP10s3eWebViewPKc
+                0x00001360       0x98 release\s3eWebView_platform.os
+                0x00001360                s3eWebViewNavigate_platform(s3eWebView*, char const*)
+ .text.s3eWebViewGetHandleProperty
+                0x000013f8       0x1c release\s3eWebView.os
+                0x000013f8                s3eWebViewGetHandleProperty
+ .text.s3eWebViewResize
+                0x00001414       0x5c release\s3eWebView.os
+                0x00001414                s3eWebViewResize
+ .text.s3eWebViewSendJavaScript
+                0x00001470       0x38 release\s3eWebView.os
+                0x00001470                s3eWebViewSendJavaScript
+ .text.s3eWebViewClearCache
+                0x000014a8       0x34 release\s3eWebView.os
+                0x000014a8                s3eWebViewClearCache
+ .text.s3eWebViewNavigate
+                0x000014dc       0x38 release\s3eWebView.os
+                0x000014dc                s3eWebViewNavigate
+ .text.s3eWebViewCreateModal
+                0x00001514       0x34 release\s3eWebView.os
+                0x00001514                s3eWebViewCreateModal
+ .text.s3eWebViewShow
+                0x00001548       0x64 release\s3eWebView.os
+                0x00001548                s3eWebViewShow
+ .text.s3eWebViewHide
+                0x000015ac       0x34 release\s3eWebView.os
+                0x000015ac                s3eWebViewHide
+ .text.s3eWebViewDestroy
+                0x000015e0       0x34 release\s3eWebView.os
+                0x000015e0                s3eWebViewDestroy
+ .text.s3eWebViewCreate
+                0x00001614       0x10 release\s3eWebView.os
+                0x00001614                s3eWebViewCreate
+ .text.s3eWebViewUnRegister
+                0x00001624       0x30 release\s3eWebView.os
+                0x00001624                s3eWebViewUnRegister
+ .text.s3eWebViewRegister
+                0x00001654       0x3c release\s3eWebView.os
+                0x00001654                s3eWebViewRegister
+ .text._Z19s3eWebViewTerminatev
+                0x00001690       0x10 release\s3eWebView.os
+                0x00001690                s3eWebViewTerminate()
+ .text._Z14s3eWebViewInitv
+                0x000016a0       0x10 release\s3eWebView.os
+                0x000016a0                s3eWebViewInit()
+ .text.s3eWebViewGetErrorString
+                0x000016b0        0x8 release\s3eWebView_register.os
+                0x000016b0                s3eWebViewGetErrorString
+ .text._ZL32s3eWebViewGetHandleProperty_wrapP10s3eWebView24s3eWebViewHandleProperty
+                0x000016b8       0x24 release\s3eWebView_register.os
+ .text._ZL21s3eWebViewResize_wrapP10s3eWebViewiiii
+                0x000016dc       0x38 release\s3eWebView_register.os
+ .text._ZL29s3eWebViewSendJavaScript_wrapP10s3eWebViewPKc
+                0x00001714       0x24 release\s3eWebView_register.os
+ .text._ZL25s3eWebViewClearCache_wrapP10s3eWebView
+                0x00001738       0x20 release\s3eWebView_register.os
+ .text._ZL19s3eWebViewShow_wrapP10s3eWebViewiiii15s3eWebViewFlags
+                0x00001758       0x40 release\s3eWebView_register.os
+ .text._ZL19s3eWebViewHide_wrapP10s3eWebView
+                0x00001798       0x20 release\s3eWebView_register.os
+ .text._ZL22s3eWebViewDestroy_wrapP10s3eWebView
+                0x000017b8       0x20 release\s3eWebView_register.os
+ .text._ZL23s3eWebViewNavigate_wrapP10s3eWebViewPKc
+                0x000017d8       0x24 release\s3eWebView_register.os
+ .text._ZL21s3eWebViewCreate_wraph
+                0x000017fc       0x20 release\s3eWebView_register.os
+ .text.s3eWebViewGetError
+                0x0000181c       0x18 release\s3eWebView_register.os
+                0x0000181c                s3eWebViewGetError
+ .text.RegisterExt
+                0x00001834      0x130 release\s3eWebView_register.os
+                0x00001834                RegisterExt
+ .text.s3eEdkThreadRunOnOS
+                0x00001964       0x30 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00001964                s3eEdkThreadRunOnOS
+ *fill*         0x00001994        0x4 00000000
+ .text.s3eEdkThreadRunOnOS.stub
+                0x00001998       0x10 linker stubs
+ *(.gnu.warning)
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+ *(.v4_bx)
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.fini
+ *(.fini)
+                0x000019a8                PROVIDE (__etext, .)
+                0x000019a8                PROVIDE (_etext, .)
+                0x000019a8                PROVIDE (etext, .)
+
+.rodata         0x000019a8      0x234
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x000019a8       0x30 release\s3eWebView_platform.os
+ .rodata.str1.4
+                0x000019d8      0x204 release\s3eWebView_platform.os
+ .rodata.str1.4
+                0x00000000        0xc release\s3eWebView_register.os
+
+.rodata1
+ *(.rodata1)
+
+.ARM.extab      0x00001bdc      0x108
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab.text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00001bdc        0xc release\s3eWebView_platform.os
+ .ARM.extab.text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00001be8        0xc release\s3eWebView_platform.os
+ .ARM.extab.text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00001bf4        0xc release\s3eWebView_platform.os
+ .ARM.extab.text.s3eWebViewGetHandleProperty
+                0x00001c00        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewSendJavaScript
+                0x00001c0c        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewClearCache
+                0x00001c18        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewNavigate
+                0x00001c24        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewCreateModal
+                0x00001c30        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewHide
+                0x00001c3c        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewDestroy
+                0x00001c48        0xc release\s3eWebView.os
+ .ARM.extab.text.s3eWebViewCreate
+                0x00001c54        0xc release\s3eWebView.os
+ .ARM.extab.text._Z19s3eWebViewTerminatev
+                0x00001c60        0xc release\s3eWebView.os
+ .ARM.extab.text._Z14s3eWebViewInitv
+                0x00001c6c        0xc release\s3eWebView.os
+ .ARM.extab.text._ZL32s3eWebViewGetHandleProperty_wrapP10s3eWebView24s3eWebViewHandleProperty
+                0x00001c78        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL29s3eWebViewSendJavaScript_wrapP10s3eWebViewPKc
+                0x00001c84        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL25s3eWebViewClearCache_wrapP10s3eWebView
+                0x00001c90        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL19s3eWebViewHide_wrapP10s3eWebView
+                0x00001c9c        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL22s3eWebViewDestroy_wrapP10s3eWebView
+                0x00001ca8        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL23s3eWebViewNavigate_wrapP10s3eWebViewPKc
+                0x00001cb4        0xc release\s3eWebView_register.os
+ .ARM.extab.text._ZL21s3eWebViewCreate_wraph
+                0x00001cc0        0xc release\s3eWebView_register.os
+ .ARM.extab.text.s3eWebViewGetError
+                0x00001ccc        0xc release\s3eWebView_register.os
+ .ARM.extab.text.s3eEdkThreadRunOnOS
+                0x00001cd8        0xc D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                0x00001ce4                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x00001ce4      0x160
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx.text._ZN7_JNIEnv11GetMethodIDEP7_jclassPKcS3_
+                0x00001ce4        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z28s3eWebViewTerminate_platformv
+                0x00001cec        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv13CallIntMethodEP8_jobjectP10_jmethodIDz
+                0x00001cf4        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZN7_JNIEnv9NewObjectEP7_jclassP10_jmethodIDz
+                0x00001cfc        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZL17s3eWebViewLoadingP7_JNIEnvP8_jobjectiP8_jstring
+                0x00001d04        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZL14s3eWebViewExecP7_JNIEnvP8_jobjectiP8_jstring
+                0x00001d0c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZL16s3eWebViewFailedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00001d14        0x0 release\s3eWebView_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._ZL16s3eWebViewLoadedP7_JNIEnvP8_jobjectiP8_jstring
+                0x00001d14        0x0 release\s3eWebView_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z23s3eWebViewInit_platformv
+                0x00001d14        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._ZL27s3eEdkAndroidFindClass_realPKc
+                0x00001d1c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z36s3eWebViewGetHandleProperty_platformP10s3eWebView24s3eWebViewHandleProperty
+                0x00001d24        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z25s3eWebViewResize_platformP10s3eWebViewiiii
+                0x00001d2c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z33s3eWebViewSendJavaScript_platformP10s3eWebViewPKc
+                0x00001d34        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z30s3eWebViewCreateModal_platformPKc
+                0x00001d3c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z29s3eWebViewClearCache_platformP10s3eWebView
+                0x00001d44        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z23s3eWebViewShow_platformP10s3eWebViewiiii15s3eWebViewFlags
+                0x00001d4c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z23s3eWebViewHide_platformP10s3eWebView
+                0x00001d54        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text._Z26s3eWebViewDestroy_platformP10s3eWebView
+                0x00001d5c        0x0 release\s3eWebView_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z25s3eWebViewCreate_platformh
+                0x00001d5c        0x0 release\s3eWebView_platform.os
+                                  0x8 (size before relaxing)
+ .ARM.exidx.text._Z27s3eWebViewNavigate_platformP10s3eWebViewPKc
+                0x00001d5c        0x8 release\s3eWebView_platform.os
+ .ARM.exidx.text.s3eWebViewGetHandleProperty
+                0x00001d64        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewResize
+                0x00001d6c        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewSendJavaScript
+                0x00001d74        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewClearCache
+                0x00001d7c        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewNavigate
+                0x00001d84        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewCreateModal
+                0x00001d8c        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewShow
+                0x00001d94        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewHide
+                0x00001d9c        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewDestroy
+                0x00001da4        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewCreate
+                0x00001dac        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewUnRegister
+                0x00001db4        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewRegister
+                0x00001dbc        0x8 release\s3eWebView.os
+ .ARM.exidx.text._Z19s3eWebViewTerminatev
+                0x00001dc4        0x8 release\s3eWebView.os
+ .ARM.exidx.text._Z14s3eWebViewInitv
+                0x00001dcc        0x8 release\s3eWebView.os
+ .ARM.exidx.text.s3eWebViewGetErrorString
+                0x00001dd4        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL32s3eWebViewGetHandleProperty_wrapP10s3eWebView24s3eWebViewHandleProperty
+                0x00001ddc        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL21s3eWebViewResize_wrapP10s3eWebViewiiii
+                0x00001de4        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL29s3eWebViewSendJavaScript_wrapP10s3eWebViewPKc
+                0x00001dec        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL25s3eWebViewClearCache_wrapP10s3eWebView
+                0x00001df4        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL19s3eWebViewShow_wrapP10s3eWebViewiiii15s3eWebViewFlags
+                0x00001dfc        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL19s3eWebViewHide_wrapP10s3eWebView
+                0x00001e04        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL22s3eWebViewDestroy_wrapP10s3eWebView
+                0x00001e0c        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL23s3eWebViewNavigate_wrapP10s3eWebViewPKc
+                0x00001e14        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text._ZL21s3eWebViewCreate_wraph
+                0x00001e1c        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text.s3eWebViewGetError
+                0x00001e24        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text.RegisterExt
+                0x00001e2c        0x8 release\s3eWebView_register.os
+ .ARM.exidx.text.s3eEdkThreadRunOnOS
+                0x00001e34       0x10 D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+                                  0x8 (size before relaxing)
+                0x00001e44                PROVIDE (__exidx_end, .)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+                0x00001e44                . = (ALIGN (0x8000) - ((0x8000 - .) & 0x7fff))
+                0x00009e44                . = (0x8000 DATA_SEGMENT_ALIGN 0x1000)
+
+.eh_frame
+ *(.eh_frame)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.tdata
+ *(.tdata .tdata.* .gnu.linkonce.td.*)
+
+.tbss
+ *(.tbss .tbss.* .gnu.linkonce.tb.*)
+ *(.tcommon)
+
+.preinit_array
+ *(.preinit_array)
+
+.init_array
+ *(SORT(.init_array.*))
+ *(.init_array)
+
+.fini_array
+ *(SORT(.fini_array.*))
+ *(.fini_array)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *crtbegin?.o(.ctors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *crtbegin?.o(.dtors)
+ *(EXCLUDE_FILE(*crtend?.o *crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.jcr
+ *(.jcr)
+
+.data.rel.ro
+ *(.data.rel.ro.local* .gnu.linkonce.d.rel.ro.local.*)
+ *(.data.rel.ro* .gnu.linkonce.d.rel.ro.*)
+
+.dynamic        0x00009e44       0xb0
+ *(.dynamic)
+ .dynamic       0x00009e44       0xb0 release\s3eWebView_platform.os
+                0x00009e44                _DYNAMIC
+                0x00009ef4                . = (. DATA_SEGMENT_RELRO_END 0x0)
+
+.got            0x00009ef4       0x38
+ *(.got.plt)
+ .got.plt       0x00009ef4       0x38 release\s3eWebView_platform.os
+                0x00009ef4                _GLOBAL_OFFSET_TABLE_
+ *(.igot.plt)
+ *(.got)
+ .got           0x00000000        0x0 release\s3eWebView_platform.os
+ *(.igot)
+
+.data           0x00009f2c        0x0
+                0x00009f2c                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+
+.data1
+ *(.data1)
+                0x00009f2c                _edata = .
+                0x00009f2c                PROVIDE (edata, .)
+                0x00009f2c                __bss_start = .
+                0x00009f2c                __bss_start__ = .
+
+.bss            0x00009f2c       0x2c
+ *(.dynbss)
+ .dynbss        0x00000000        0x0 release\s3eWebView_platform.os
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x00009f2c       0x2c release\s3eWebView_platform.os
+ *(COMMON)
+                0x00009f58                . = ALIGN ((. != 0x0)?0x4:0x1)
+                0x00009f58                _bss_end__ = .
+                0x00009f58                __bss_end__ = .
+                0x00009f58                . = ALIGN (0x4)
+                0x00009f58                . = ALIGN (0x4)
+                0x00009f58                __end__ = .
+                0x00009f58                _end = .
+                0x00009f58                PROVIDE (end, .)
+                0x00009f58                . = DATA_SEGMENT_END (.)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.ARM.attributes
+                0x00000000       0x2c
+ .ARM.attributes
+                0x00000000       0x2c release\s3eWebView_platform.os
+ .ARM.attributes
+                0x0000002c       0x2c release\s3eWebView.os
+ .ARM.attributes
+                0x00000058       0x2c release\s3eWebView_register.os
+ .ARM.attributes
+                0x00000084       0x2c D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+.comment        0x00000000       0xac
+ *(.comment)
+ .comment       0x00000000       0x2b release\s3eWebView_platform.os
+ .comment       0x0000002b       0x2b release\s3eWebView.os
+ .comment       0x00000056       0x2b release\s3eWebView_register.os
+ .comment       0x00000081       0x2b D:\perforce\sdk\teams\orange\feature3\s3e\edk\lib\android\libedk.a(edk_helpers.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges
+ *(.debug_aranges)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info
+ *(.debug_info .gnu.linkonce.wi.*)
+
+.debug_abbrev
+ *(.debug_abbrev)
+
+.debug_line
+ *(.debug_line)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges
+ *(.debug_ranges)
+
+.gnu.attributes
+ *(.gnu.attributes)
+
+.note.gnu.arm.ident
+ *(.note.gnu.arm.ident)
+
+/DISCARD/
+ *(.note.GNU-stack)
+ *(.gnu_debuglink)
+OUTPUT(D:\perforce\sdk\teams\orange\feature3\extensions\s3ewebview\lib\android\libs3eWebView.so elf32-littlearm)

@@ -1,0 +1,36 @@
+Package: s3ewebview
+Maintainer: Marmalade Package Team <packages@ideaworkslabs.com>
+Description: |
+ s3eWebView is the extension for the WebView
+Build-Mkb-Platform:
+  win32:
+   - s3eWebView_android.mkb
+   - s3eWebView_android_java.mkb
+   - s3eWebView_windows.mkb
+  darwin:
+   - s3eWebView_iphone.mkb
+   - s3eWebView_osx.mkb
+   - s3eWebView_android.mkb
+   - s3eWebView_android_java.mkb
+Contents-Source:
+ - s3eWebView_android.mkb
+ - s3eWebView_android_java.mkb
+ - s3eWebView_windows.mkb
+ - README.rst
+ - cef
+ - h
+ - interface
+ - s3eWebView.js
+ - s3eWebView.mkf
+ - s3eWebView_build.mkf
+ - source
+ - s3eWebView.s4e
+Contents:
+ - README.rst
+ - cef
+ - h
+ - lib
+ - interface
+ - s3eWebView.js
+ - s3eWebView.mkf
+ - s3eWebView_build.mkf

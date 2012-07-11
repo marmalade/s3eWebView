@@ -1,0 +1,23 @@
+#!/usr/bin/env mkb
+# Builder mkb file for the s3eWebView extension on windows
+platform WIN32
+buildtype VC6
+
+options
+{
+    dll
+    x86
+    strict
+    enable-exceptions
+    output-name="lib/win32/s3eWebView.dll"
+    output-name-debug="lib/win32/s3eWebView_d.dll"
+}
+
+librarys
+{
+    User32.lib
+}
+
+define S3E_BUILD_EXT
+
+subproject s3eWebView_build
