@@ -1,4 +1,4 @@
-s3ewebview (1.0.0-1)
+s3eWebView (1.0.0-1)
 
   * Add changlog
   * Add package.yml
