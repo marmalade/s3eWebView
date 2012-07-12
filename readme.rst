@@ -1,6 +1,5 @@
-IwHTTP for Marmalade
+s3eWebView for Marmalade
 ==================
 
-This module can be used to work with standard http and https 
-protocols
+This extension can be used to implement webview in Marmalade application
 
